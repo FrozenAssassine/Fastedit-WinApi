@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\definitions.h(1,9): warning C4068: Unbekanntes Pragma "on".
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(1392,12): warning C4101: "chrg": Unreferenzierte lokale Variable
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(1425,7): warning C4101: "t": Unreferenzierte lokale Variable
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(2651,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(2628,15): warning C4101: "editstream": Unreferenzierte lokale Variable
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(512): warning C4715: "AskSaveMB": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(1940): warning C4715: "SaveProc": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(1829): warning C4715: "PrefProc": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(1971): warning C4715: "AboutProc": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(2003): warning C4715: "gotolineProc": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(2052): warning C4715: "SearchProc": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Fastedit V1.7\main.cpp(2717): warning C4715: "WindowProcedure": Nicht alle Codepfade geben einen Wert zurück.
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol ""long __stdcall MB_Procedure(struct HWND__ *,unsigned int,unsigned int,long)" (?MB_Procedure@@YGJPAUHWND__@@IIJ@Z)" in Funktion ""void __cdecl CustomMBDLGclass(struct HINSTANCE__ *)" (?CustomMBDLGclass@@YAXPAUHINSTANCE__@@@Z)".
+C:\Users\juliu\Documents\Visual Studio 2022\Projects\C++\Software\Fastedit\Fastedit V1.7\Debug\Fastedit V1.7.exe : fatal error LNK1120: 1 nicht aufgelöste Externe
